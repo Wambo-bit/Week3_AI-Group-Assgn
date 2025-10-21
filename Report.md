@@ -120,7 +120,7 @@ Each review was analyzed to extract:
 The results were stored in a structured table.
 
 #### **6️⃣ Visualization and Summary**
-![Sentiment distribution Summary](Sentiment_distribution.png)
+![alt text](Sentiment_distribution.png)
 
 A **bar chart** was generated to show how many reviews were positive, negative, or neutral.
 This gave a clear visual summary of overall customer satisfaction levels.
